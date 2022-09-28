@@ -1,0 +1,6 @@
+{
+  "name": "smart-tv-app",
+  "identifier": "tv.eductech.smart-tv-app",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
